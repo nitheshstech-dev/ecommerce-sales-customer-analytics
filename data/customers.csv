@@ -1,0 +1,521 @@
+customer_id,segment,region,acquisition_channel
+10001,Consumer,West,Referral
+10002,Small Business,East,Organic Search
+10003,Consumer,West,Organic Search
+10004,Small Business,South,Social Media
+10005,Consumer,East,Organic Search
+10006,Small Business,East,Social Media
+10007,Consumer,East,Organic Search
+10008,Consumer,East,Referral
+10009,Consumer,West,Organic Search
+10010,Consumer,East,Social Media
+10011,Consumer,West,Paid Ads
+10012,Small Business,East,Referral
+10013,Consumer,East,Social Media
+10014,Corporate,South,Referral
+10015,Consumer,West,Organic Search
+10016,Consumer,West,Organic Search
+10017,Small Business,Central,Organic Search
+10018,Consumer,South,Paid Ads
+10019,Consumer,West,Email
+10020,Consumer,South,Email
+10021,Consumer,South,Paid Ads
+10022,Small Business,South,Paid Ads
+10023,Corporate,North,Email
+10024,Consumer,West,Email
+10025,Small Business,South,Social Media
+10026,Consumer,North,Organic Search
+10027,Consumer,North,Referral
+10028,Small Business,East,Referral
+10029,Corporate,East,Paid Ads
+10030,Corporate,West,Social Media
+10031,Corporate,East,Email
+10032,Small Business,West,Referral
+10033,Small Business,North,Organic Search
+10034,Consumer,North,Referral
+10035,Consumer,West,Referral
+10036,Consumer,East,Referral
+10037,Corporate,East,Referral
+10038,Consumer,West,Organic Search
+10039,Consumer,Central,Referral
+10040,Consumer,East,Referral
+10041,Small Business,South,Referral
+10042,Corporate,East,Referral
+10043,Consumer,Central,Organic Search
+10044,Consumer,North,Organic Search
+10045,Consumer,North,Social Media
+10046,Consumer,North,Social Media
+10047,Consumer,East,Referral
+10048,Small Business,North,Paid Ads
+10049,Small Business,Central,Organic Search
+10050,Consumer,Central,Organic Search
+10051,Consumer,East,Social Media
+10052,Consumer,South,Social Media
+10053,Consumer,East,Referral
+10054,Consumer,North,Paid Ads
+10055,Consumer,East,Email
+10056,Consumer,Central,Organic Search
+10057,Corporate,East,Paid Ads
+10058,Corporate,East,Organic Search
+10059,Corporate,South,Referral
+10060,Consumer,Central,Email
+10061,Small Business,West,Email
+10062,Small Business,West,Social Media
+10063,Consumer,Central,Social Media
+10064,Consumer,West,Referral
+10065,Consumer,North,Organic Search
+10066,Consumer,West,Organic Search
+10067,Consumer,North,Referral
+10068,Consumer,Central,Referral
+10069,Consumer,West,Email
+10070,Consumer,West,Organic Search
+10071,Consumer,North,Paid Ads
+10072,Small Business,North,Organic Search
+10073,Consumer,East,Paid Ads
+10074,Corporate,South,Social Media
+10075,Consumer,West,Referral
+10076,Consumer,South,Paid Ads
+10077,Consumer,South,Social Media
+10078,Consumer,West,Organic Search
+10079,Consumer,North,Social Media
+10080,Consumer,East,Organic Search
+10081,Consumer,Central,Referral
+10082,Corporate,West,Social Media
+10083,Consumer,West,Paid Ads
+10084,Corporate,Central,Referral
+10085,Consumer,South,Organic Search
+10086,Consumer,East,Email
+10087,Consumer,South,Social Media
+10088,Corporate,Central,Social Media
+10089,Small Business,Central,Social Media
+10090,Small Business,East,Referral
+10091,Consumer,Central,Social Media
+10092,Small Business,Central,Referral
+10093,Consumer,East,Organic Search
+10094,Small Business,West,Paid Ads
+10095,Consumer,South,Email
+10096,Consumer,West,Social Media
+10097,Consumer,West,Email
+10098,Consumer,South,Referral
+10099,Corporate,West,Organic Search
+10100,Small Business,East,Organic Search
+10101,Consumer,South,Organic Search
+10102,Corporate,North,Email
+10103,Corporate,West,Referral
+10104,Consumer,Central,Social Media
+10105,Consumer,South,Organic Search
+10106,Consumer,North,Referral
+10107,Consumer,Central,Referral
+10108,Consumer,North,Email
+10109,Consumer,West,Paid Ads
+10110,Consumer,Central,Social Media
+10111,Consumer,West,Social Media
+10112,Small Business,Central,Social Media
+10113,Consumer,South,Email
+10114,Consumer,East,Organic Search
+10115,Consumer,East,Social Media
+10116,Consumer,North,Email
+10117,Consumer,Central,Organic Search
+10118,Consumer,West,Social Media
+10119,Consumer,South,Referral
+10120,Consumer,South,Organic Search
+10121,Consumer,South,Social Media
+10122,Consumer,East,Referral
+10123,Corporate,West,Social Media
+10124,Consumer,South,Organic Search
+10125,Consumer,South,Paid Ads
+10126,Consumer,North,Organic Search
+10127,Small Business,Central,Email
+10128,Consumer,Central,Organic Search
+10129,Corporate,Central,Referral
+10130,Corporate,North,Organic Search
+10131,Consumer,East,Organic Search
+10132,Consumer,North,Organic Search
+10133,Consumer,South,Referral
+10134,Consumer,West,Referral
+10135,Consumer,South,Organic Search
+10136,Consumer,South,Paid Ads
+10137,Consumer,West,Social Media
+10138,Consumer,Central,Referral
+10139,Small Business,North,Organic Search
+10140,Consumer,East,Referral
+10141,Small Business,South,Email
+10142,Small Business,South,Referral
+10143,Small Business,East,Social Media
+10144,Small Business,North,Organic Search
+10145,Consumer,South,Email
+10146,Consumer,East,Organic Search
+10147,Consumer,South,Social Media
+10148,Consumer,Central,Organic Search
+10149,Small Business,Central,Social Media
+10150,Small Business,South,Organic Search
+10151,Consumer,South,Paid Ads
+10152,Consumer,Central,Email
+10153,Consumer,South,Referral
+10154,Consumer,North,Organic Search
+10155,Consumer,North,Referral
+10156,Consumer,West,Referral
+10157,Small Business,North,Referral
+10158,Consumer,South,Organic Search
+10159,Small Business,South,Paid Ads
+10160,Corporate,East,Referral
+10161,Small Business,North,Paid Ads
+10162,Consumer,Central,Organic Search
+10163,Small Business,Central,Organic Search
+10164,Corporate,West,Organic Search
+10165,Consumer,East,Email
+10166,Consumer,Central,Social Media
+10167,Small Business,West,Paid Ads
+10168,Consumer,North,Paid Ads
+10169,Consumer,East,Email
+10170,Consumer,East,Email
+10171,Corporate,South,Email
+10172,Small Business,North,Email
+10173,Consumer,East,Social Media
+10174,Consumer,West,Email
+10175,Small Business,Central,Paid Ads
+10176,Corporate,North,Social Media
+10177,Small Business,North,Paid Ads
+10178,Consumer,East,Organic Search
+10179,Consumer,East,Social Media
+10180,Consumer,East,Organic Search
+10181,Corporate,West,Organic Search
+10182,Consumer,South,Email
+10183,Consumer,East,Paid Ads
+10184,Consumer,South,Email
+10185,Consumer,South,Paid Ads
+10186,Small Business,North,Organic Search
+10187,Consumer,Central,Organic Search
+10188,Corporate,Central,Referral
+10189,Small Business,West,Email
+10190,Consumer,West,Organic Search
+10191,Corporate,Central,Paid Ads
+10192,Small Business,Central,Referral
+10193,Small Business,North,Paid Ads
+10194,Consumer,North,Social Media
+10195,Consumer,Central,Referral
+10196,Consumer,East,Email
+10197,Corporate,East,Email
+10198,Corporate,North,Organic Search
+10199,Corporate,South,Paid Ads
+10200,Consumer,Central,Paid Ads
+10201,Consumer,West,Organic Search
+10202,Consumer,East,Organic Search
+10203,Consumer,South,Referral
+10204,Corporate,East,Referral
+10205,Consumer,South,Email
+10206,Consumer,Central,Organic Search
+10207,Consumer,Central,Referral
+10208,Consumer,Central,Referral
+10209,Consumer,North,Organic Search
+10210,Consumer,South,Referral
+10211,Consumer,West,Organic Search
+10212,Consumer,West,Organic Search
+10213,Consumer,Central,Referral
+10214,Corporate,West,Paid Ads
+10215,Consumer,East,Organic Search
+10216,Corporate,South,Social Media
+10217,Corporate,South,Social Media
+10218,Consumer,South,Social Media
+10219,Small Business,East,Social Media
+10220,Consumer,North,Email
+10221,Corporate,East,Organic Search
+10222,Small Business,South,Paid Ads
+10223,Small Business,South,Organic Search
+10224,Consumer,South,Paid Ads
+10225,Consumer,West,Paid Ads
+10226,Consumer,North,Referral
+10227,Consumer,East,Organic Search
+10228,Corporate,South,Referral
+10229,Consumer,Central,Referral
+10230,Consumer,North,Paid Ads
+10231,Corporate,Central,Referral
+10232,Consumer,North,Social Media
+10233,Small Business,South,Paid Ads
+10234,Corporate,North,Paid Ads
+10235,Consumer,North,Referral
+10236,Corporate,South,Paid Ads
+10237,Consumer,Central,Referral
+10238,Consumer,Central,Email
+10239,Small Business,West,Email
+10240,Small Business,Central,Email
+10241,Consumer,Central,Social Media
+10242,Consumer,North,Referral
+10243,Consumer,West,Referral
+10244,Consumer,South,Social Media
+10245,Consumer,South,Social Media
+10246,Consumer,East,Email
+10247,Consumer,West,Referral
+10248,Consumer,North,Organic Search
+10249,Consumer,East,Paid Ads
+10250,Small Business,East,Paid Ads
+10251,Corporate,South,Referral
+10252,Consumer,Central,Organic Search
+10253,Consumer,North,Paid Ads
+10254,Consumer,West,Paid Ads
+10255,Consumer,East,Organic Search
+10256,Consumer,North,Organic Search
+10257,Small Business,South,Social Media
+10258,Consumer,East,Email
+10259,Corporate,East,Organic Search
+10260,Consumer,South,Referral
+10261,Small Business,South,Social Media
+10262,Small Business,South,Paid Ads
+10263,Consumer,North,Social Media
+10264,Consumer,North,Referral
+10265,Consumer,North,Paid Ads
+10266,Consumer,Central,Social Media
+10267,Corporate,East,Social Media
+10268,Consumer,North,Email
+10269,Consumer,Central,Social Media
+10270,Consumer,East,Paid Ads
+10271,Consumer,North,Organic Search
+10272,Small Business,South,Organic Search
+10273,Consumer,West,Paid Ads
+10274,Corporate,North,Referral
+10275,Consumer,West,Email
+10276,Consumer,North,Organic Search
+10277,Consumer,South,Organic Search
+10278,Corporate,West,Paid Ads
+10279,Consumer,Central,Social Media
+10280,Consumer,South,Referral
+10281,Consumer,West,Organic Search
+10282,Consumer,West,Social Media
+10283,Small Business,South,Email
+10284,Consumer,South,Email
+10285,Consumer,South,Email
+10286,Consumer,East,Email
+10287,Small Business,Central,Referral
+10288,Consumer,North,Referral
+10289,Corporate,West,Email
+10290,Small Business,North,Organic Search
+10291,Consumer,South,Organic Search
+10292,Consumer,Central,Paid Ads
+10293,Consumer,Central,Organic Search
+10294,Small Business,East,Organic Search
+10295,Consumer,South,Referral
+10296,Consumer,West,Email
+10297,Corporate,East,Referral
+10298,Consumer,South,Social Media
+10299,Consumer,East,Paid Ads
+10300,Consumer,North,Email
+10301,Consumer,South,Paid Ads
+10302,Consumer,West,Organic Search
+10303,Consumer,West,Organic Search
+10304,Small Business,South,Social Media
+10305,Consumer,East,Organic Search
+10306,Small Business,Central,Organic Search
+10307,Corporate,South,Organic Search
+10308,Consumer,West,Referral
+10309,Corporate,North,Email
+10310,Consumer,West,Email
+10311,Small Business,Central,Organic Search
+10312,Small Business,West,Social Media
+10313,Consumer,Central,Organic Search
+10314,Consumer,South,Social Media
+10315,Consumer,West,Social Media
+10316,Consumer,East,Referral
+10317,Consumer,East,Paid Ads
+10318,Consumer,West,Email
+10319,Corporate,West,Referral
+10320,Consumer,North,Paid Ads
+10321,Small Business,West,Email
+10322,Corporate,North,Email
+10323,Consumer,North,Referral
+10324,Small Business,North,Referral
+10325,Consumer,North,Email
+10326,Consumer,South,Organic Search
+10327,Consumer,East,Email
+10328,Consumer,North,Paid Ads
+10329,Consumer,East,Email
+10330,Small Business,North,Organic Search
+10331,Small Business,East,Social Media
+10332,Corporate,West,Email
+10333,Corporate,West,Paid Ads
+10334,Consumer,East,Social Media
+10335,Consumer,North,Paid Ads
+10336,Corporate,South,Paid Ads
+10337,Consumer,East,Organic Search
+10338,Consumer,Central,Paid Ads
+10339,Consumer,South,Social Media
+10340,Consumer,Central,Referral
+10341,Consumer,East,Referral
+10342,Corporate,North,Email
+10343,Consumer,Central,Email
+10344,Consumer,East,Social Media
+10345,Consumer,South,Paid Ads
+10346,Consumer,North,Email
+10347,Small Business,Central,Email
+10348,Consumer,East,Referral
+10349,Consumer,North,Organic Search
+10350,Consumer,North,Referral
+10351,Consumer,West,Paid Ads
+10352,Consumer,North,Organic Search
+10353,Consumer,East,Paid Ads
+10354,Small Business,South,Email
+10355,Corporate,West,Email
+10356,Consumer,East,Email
+10357,Consumer,East,Referral
+10358,Consumer,East,Email
+10359,Consumer,Central,Social Media
+10360,Corporate,Central,Paid Ads
+10361,Small Business,South,Email
+10362,Consumer,East,Email
+10363,Small Business,Central,Email
+10364,Consumer,Central,Organic Search
+10365,Consumer,Central,Organic Search
+10366,Consumer,South,Email
+10367,Consumer,South,Social Media
+10368,Small Business,East,Referral
+10369,Consumer,West,Social Media
+10370,Consumer,East,Organic Search
+10371,Small Business,Central,Organic Search
+10372,Small Business,Central,Email
+10373,Corporate,North,Referral
+10374,Small Business,East,Referral
+10375,Consumer,Central,Paid Ads
+10376,Small Business,Central,Organic Search
+10377,Corporate,West,Social Media
+10378,Small Business,North,Email
+10379,Corporate,East,Email
+10380,Consumer,South,Social Media
+10381,Corporate,East,Paid Ads
+10382,Consumer,East,Paid Ads
+10383,Consumer,West,Organic Search
+10384,Consumer,East,Organic Search
+10385,Small Business,West,Email
+10386,Consumer,West,Social Media
+10387,Consumer,Central,Organic Search
+10388,Consumer,South,Email
+10389,Small Business,West,Referral
+10390,Consumer,North,Referral
+10391,Corporate,North,Organic Search
+10392,Small Business,South,Email
+10393,Consumer,West,Referral
+10394,Consumer,South,Organic Search
+10395,Corporate,Central,Social Media
+10396,Small Business,North,Referral
+10397,Corporate,East,Paid Ads
+10398,Consumer,North,Paid Ads
+10399,Small Business,West,Social Media
+10400,Consumer,South,Email
+10401,Consumer,North,Email
+10402,Small Business,East,Email
+10403,Consumer,East,Referral
+10404,Corporate,South,Organic Search
+10405,Consumer,South,Email
+10406,Small Business,North,Organic Search
+10407,Consumer,West,Organic Search
+10408,Consumer,Central,Referral
+10409,Small Business,East,Paid Ads
+10410,Consumer,South,Organic Search
+10411,Consumer,Central,Referral
+10412,Small Business,Central,Social Media
+10413,Consumer,Central,Paid Ads
+10414,Small Business,West,Referral
+10415,Consumer,South,Organic Search
+10416,Consumer,East,Social Media
+10417,Corporate,South,Social Media
+10418,Corporate,North,Organic Search
+10419,Consumer,East,Organic Search
+10420,Consumer,South,Email
+10421,Small Business,East,Social Media
+10422,Consumer,North,Email
+10423,Consumer,East,Organic Search
+10424,Consumer,Central,Referral
+10425,Consumer,West,Social Media
+10426,Consumer,North,Organic Search
+10427,Consumer,East,Referral
+10428,Consumer,North,Organic Search
+10429,Consumer,Central,Email
+10430,Consumer,West,Referral
+10431,Corporate,North,Referral
+10432,Consumer,Central,Organic Search
+10433,Small Business,Central,Social Media
+10434,Corporate,Central,Referral
+10435,Consumer,East,Referral
+10436,Consumer,South,Organic Search
+10437,Consumer,North,Organic Search
+10438,Corporate,South,Social Media
+10439,Small Business,Central,Referral
+10440,Consumer,South,Organic Search
+10441,Corporate,Central,Referral
+10442,Consumer,Central,Social Media
+10443,Consumer,West,Referral
+10444,Small Business,West,Social Media
+10445,Consumer,South,Referral
+10446,Consumer,North,Organic Search
+10447,Consumer,South,Organic Search
+10448,Corporate,North,Social Media
+10449,Consumer,South,Social Media
+10450,Small Business,East,Social Media
+10451,Consumer,East,Email
+10452,Consumer,North,Paid Ads
+10453,Corporate,West,Organic Search
+10454,Consumer,North,Paid Ads
+10455,Corporate,South,Referral
+10456,Consumer,Central,Social Media
+10457,Consumer,East,Paid Ads
+10458,Consumer,Central,Email
+10459,Small Business,East,Paid Ads
+10460,Consumer,South,Organic Search
+10461,Corporate,East,Organic Search
+10462,Consumer,North,Referral
+10463,Consumer,Central,Referral
+10464,Consumer,Central,Organic Search
+10465,Small Business,South,Paid Ads
+10466,Corporate,Central,Referral
+10467,Corporate,South,Social Media
+10468,Consumer,West,Referral
+10469,Consumer,North,Referral
+10470,Consumer,East,Organic Search
+10471,Small Business,East,Paid Ads
+10472,Consumer,East,Social Media
+10473,Consumer,West,Organic Search
+10474,Consumer,North,Paid Ads
+10475,Consumer,Central,Paid Ads
+10476,Consumer,Central,Email
+10477,Small Business,North,Paid Ads
+10478,Consumer,North,Referral
+10479,Small Business,East,Paid Ads
+10480,Small Business,Central,Organic Search
+10481,Consumer,North,Email
+10482,Consumer,Central,Email
+10483,Consumer,North,Organic Search
+10484,Small Business,South,Referral
+10485,Consumer,East,Referral
+10486,Consumer,North,Email
+10487,Consumer,West,Organic Search
+10488,Consumer,North,Email
+10489,Consumer,South,Organic Search
+10490,Consumer,West,Social Media
+10491,Corporate,West,Paid Ads
+10492,Small Business,North,Referral
+10493,Consumer,South,Social Media
+10494,Consumer,West,Organic Search
+10495,Small Business,East,Email
+10496,Consumer,East,Paid Ads
+10497,Small Business,Central,Paid Ads
+10498,Consumer,Central,Email
+10499,Corporate,South,Organic Search
+10500,Consumer,West,Organic Search
+10501,Consumer,East,Organic Search
+10502,Small Business,East,Social Media
+10503,Consumer,South,Organic Search
+10504,Consumer,West,Organic Search
+10505,Consumer,South,Referral
+10506,Corporate,North,Social Media
+10507,Consumer,East,Email
+10508,Corporate,South,Paid Ads
+10509,Consumer,South,Referral
+10510,Consumer,North,Email
+10511,Corporate,Central,Email
+10512,Consumer,East,Social Media
+10513,Consumer,South,Organic Search
+10514,Consumer,East,Organic Search
+10515,Consumer,Central,Social Media
+10516,Consumer,South,Email
+10517,Consumer,North,Paid Ads
+10518,Consumer,East,Paid Ads
+10519,Consumer,North,Organic Search
+10520,Consumer,Central,Paid Ads
